@@ -7,9 +7,9 @@ from tkinter import messagebox
 HOST = '127.0.0.1' 
 PORT = 1202
 
-DARK_GREY = '#121212'
-MEDIUM_GREY = '#1F1B24'
-OCEAN_BLUE = '#464EB8'
+DARK_GREY = '#FFA500'
+MEDIUM_GREY = '#FFB347'
+OCEAN_BLUE ='#FFDAB9'
 WHITE = "white"
 FONT = ("Helvetica", 17)
 BUTTON_FONT = ("Helvetica", 12)
